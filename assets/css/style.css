@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Khula:300,400,600,700,800');
+body {
+	font-family: 'Khula', sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	color: #999999;
+}
+
+a:focus,
+input:focus,
+textarea:focus,
+button:focus {
+	outline: 0 solid;
+}
+
+a:link,
+a:active,
+a:visited,
+a,
+a:hover {
+	text-decoration: none !important;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0 0 15px;
+	font-weight: 400;
+}
+
+
+.mainmenu ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.mainmenu li {
+	display: inline-block;
+	position: relative;
+}
+
+.mainmenu li a {
+	display: block;
+	padding: 12px 16px;
+	color: #888888;
+}
+
+.seo-analitics,
+input[type=submit],
+button[type=submit] {
+	background: #ef476f;
+	color: #fff;
+	display: inline-block;
+	padding: 12px 25px;
+	border-radius: 2px;
+	font-size: 14px;
+	border: none;
+}
+
+.top-header {
+	padding: 15px 0;
+}
+
+.hero-text h1 {
+	color: #373737;
+	font-size: 40px;
+}
+
+.hero-text {
+	max-width: 420px;
+	padding: 40px 0;
+}
+
+.hero-text p {
+	font-weight: 300;
+	margin: 20px 0 30px;
+}
+
+input[type="text"] {
+	border: 1px solid #efefef;
+	padding: 12px 60px 12px 12px;
+}
+
+input[type=submit],
+button[type=submit] {
+	margin-left: 15px;
+	padding: 12px 25px;
+}
+
+.hero-area {
+	padding: 150px 0;
+	border-bottom: 1px solid #f6f6f6;
+}
+
+.hero-img {
+	display: block;
+	margin-left: auto;
+}
