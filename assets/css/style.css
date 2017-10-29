@@ -75,10 +75,10 @@ button[type=submit] {
 	color: #373737;
 	font-size: 40px;
 	line-height: 45px;
+	max-width: 400px;
 }
 
 .hero-text {
-	max-width: 420px;
 	padding: 40px 0;
 }
 
@@ -87,7 +87,7 @@ button[type=submit] {
 	margin: 20px 0 30px;
 }
 
-input[type="text"] {
+input[type="url"] {
 	border: 1px solid #efefef;
 	padding: 12px 60px 12px 12px;
 }
@@ -101,9 +101,4 @@ button[type=submit] {
 .hero-area {
 	padding: 150px 0;
 	border-bottom: 1px solid #f6f6f6;
-}
-
-.hero-img {
-	display: block;
-	margin-left: auto;
 }
