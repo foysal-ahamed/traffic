@@ -4,6 +4,7 @@ body {
 	font-size: 15px;
 	font-weight: 400;
 	color: #999999;
+	line-height: 26px;
 }
 
 a:focus,
@@ -73,6 +74,7 @@ button[type=submit] {
 .hero-text h1 {
 	color: #373737;
 	font-size: 40px;
+	line-height: 45px;
 }
 
 .hero-text {
